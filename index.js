@@ -53,13 +53,11 @@ function makesound(key) {
         var kick = new Audio("sounds/kick-bass.mp3");
         kick.play();
         break;
-        
+
     case "w":
       var crash = new Audio("sounds/crash.mp3");
       crash.play();
       break;
-
-    
 
     case "s":
       var snare = new Audio("sounds/snare.mp3");
